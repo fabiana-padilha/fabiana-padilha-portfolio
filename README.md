@@ -67,4 +67,4 @@ Educação Superior | EAD | Inovação Educacional | Gestão Acadêmica | EdTech
 
 # 📌 Contato Profissional
 📧 E-mail: fabirrp@gmail.com  
-💼 LinkedIn: (adicione seu link depois)
+💼 LinkedIn: linkedin.com/in/fabiana-padilha182090
