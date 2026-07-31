@@ -32,7 +32,7 @@ Atualmente com atuação voltada à coordenação pedagógica de cursos superior
 
 ## Coordenadora Pedagógica – Ensino Superior  
 **UNISENAI / FIESC – Joinville, SC**  
-📅 2024 – Atual  
+📅 2024 – 2026  
 
 - Coordenação pedagógica dos cursos de graduação: Engenharia de Produção, Engenharia Mecânica, Engenharia de Controle e Automação, Análise e Desenvolvimento de Sistemas, Mecatrônica Industrial e Fabricação Mecânica  
 - Gestão acadêmica e acompanhamento pedagógico dos cursos superiores  
