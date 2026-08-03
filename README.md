@@ -5,7 +5,7 @@
 
 # 🇧🇷 PORTFÓLIO PROFISSIONAL – FABIANa PADILHA
 
-Profissional da área educacional com mais de 10 anos de experiência em Gestão Educacional, Coordenação Pedagógica, Educação Superior, Educação Profissional e Tecnológica, Ensino Híbrido e Tecnologias Educacionais.
+Profissional da área educacional com mais de 20 anos de experiência em Gestão Educacional, Coordenação Pedagógica, Educação Superior, Educação Profissional e Tecnológica, Ensino Híbrido e Tecnologias Educacionais.
 
 Atuação estratégica em instituições de ensino superior, educação profissional, educação básica e órgãos públicos educacionais, com forte experiência em gestão acadêmica, acompanhamento pedagógico, formação docente, indicadores educacionais, permanência estudantil e qualidade de cursos.
 
