@@ -1,160 +1,213 @@
-# Fabiana Rezende Padilha
+<div align="center">
 
-## Consultoria Educacional | Soluções Educacionais Digitais | Gestão de Projetos | Educação e Tecnologia
+# 🎓 Fabiana Rezende Padilha
 
-Profissional da educação com mais de 20 anos de experiência em instituições públicas e privadas de Educação Básica, Educação Profissional e Ensino Superior. Atua na interseção entre gestão acadêmica e pedagógica, consultoria educacional, desenvolvimento curricular, formação de equipes, tecnologias educacionais, avaliação institucional e projetos educacionais.
+### Consultoria Educacional • Educação + Tecnologia • Soluções Educacionais Digitais
 
-Mestre em Tecnologias Educacionais em Rede pela UFSM e Especialista em Gestão Educacional, traduz necessidades institucionais em soluções educacionais, estratégias de aprendizagem, processos de desenvolvimento docente e ações de melhoria da qualidade acadêmica.
+**Gestão Educacional | IA aplicada à Educação | Design Instrucional | Educação Digital | Desenvolvimento Docente**
 
-### Destaques
-- Mais de 20 anos de experiência em educação.
-- Coordenação pedagógica de 6 cursos superiores, com atuação junto a mais de 600 estudantes e mais de 50 docentes.
-- Formação continuada de docentes, com turmas recorrentes de mais de 40 professores.
-- Experiência em Educação Digital, EaD, PBL, Projetos Integradores, Design Instrucional, LMS/AVA e IA aplicada à educação.
-- Consultoria educacional para entidades nacionais do setor.
-- Atuação com indicadores acadêmicos, avaliação institucional, permanência estudantil e processos regulatórios.
-- Produção científica internacional na área de tecnologias educacionais.
+![Educação](https://img.shields.io/badge/EDUCAÇÃO-0F4C5C?style=for-the-badge)
+![Tecnologia](https://img.shields.io/badge/TECNOLOGIA-1F6F8B?style=for-the-badge)
+![IA](https://img.shields.io/badge/IA_APLICADA-EE6C4D?style=for-the-badge)
+![Consultoria](https://img.shields.io/badge/CONSULTORIA-0F4C5C?style=for-the-badge)
+![Design Instrucional](https://img.shields.io/badge/DESIGN_INSTRUCIONAL-EE6C4D?style=for-the-badge)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabiana_Padilha-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/fabiana-padilha182090)
+[![Lattes](https://img.shields.io/badge/Currículo-Lattes-1F6F8B?style=flat-square)](http://lattes.cnpq.br/6795341565350913)
+[![Portfólio](https://img.shields.io/badge/GitHub-Portfólio-181717?style=flat-square&logo=github)](https://github.com/fabiana-padilha/fabiana-padilha-portfolio)
 
-## Áreas de atuação
-
-- Consultoria Educacional
-- Design de Soluções Educacionais
-- Gestão Acadêmica e Pedagógica
-- Gestão de Projetos Educacionais
-- Desenvolvimento Curricular
-- Formação e Desenvolvimento de Equipes
-- Design Instrucional
-- Educação Digital e EaD
-- Tecnologias Educacionais
-- IA aplicada à Educação
-- Avaliação por Competências
-- Avaliação Institucional e Indicadores Acadêmicos
-- Permanência e Experiência do Estudante
-- Pesquisa Aplicada e Curadoria de Tendências
-- Processos Regulatórios e Políticas Educacionais
-- Articulação Multidisciplinar e Gestão de Stakeholders
+</div>
 
 ---
 
-## Cases do portfólio
+## 👋 Sobre mim
 
-### 1. IA aplicada ao PBL e Projetos Integradores
-Orientação a docentes dos cursos de Engenharia para uso pedagógico de IA generativa como apoio à investigação, estruturação de ideias, curadoria de fontes, organização de etapas e feedback processual.
+Profissional da Educação com mais de **20 anos de experiência** em instituições públicas e privadas de Educação Básica, Educação Profissional e Ensino Superior. Minha atuação conecta **gestão acadêmica e pedagógica, consultoria educacional, tecnologia, desenvolvimento curricular, formação de equipes, avaliação institucional e projetos educacionais**.
 
-Ferramentas trabalhadas em diferentes contextos: ChatGPT, Gemini, Perplexity, NotebookLM, Diffit, FigJam e Miro com recursos de IA.
+Sou **Mestre em Tecnologias Educacionais em Rede pela UFSM** e Especialista em Gestão Educacional. Trabalho na tradução de necessidades institucionais em soluções educacionais, estratégias de aprendizagem, desenvolvimento docente e ações orientadas à qualidade acadêmica.
 
-[Ver case completo](cases/ia-pbl-projetos-integradores.md)
+> **Meu trabalho acontece na interseção entre educação, tecnologia, pessoas e estratégia.**
 
-### 2. Plataformas de aprendizagem e desenho de experiências digitais
-Atuação com Moodle, Canvas LMS, Google Classroom e Tovuti LMS, além da integração com Google Workspace, na organização de experiências de aprendizagem, cursos, salas virtuais, gamificação, recursos digitais e relatórios de acompanhamento.
+### 📌 Em números
 
-[Ver case completo](cases/lms-educacao-digital.md)
-
-### 3. Formação e desenvolvimento docente
-Concepção e implementação de ações de formação continuada, trilhas formativas, cadernos digitais, guias, estudos de caso e orientações práticas sobre planejamento, metodologias ativas, AVA e avaliação.
-
-[Ver case completo](cases/formacao-docente.md)
-
-### 4. ADS - trilhas de aprendizagem e projetos reais
-Participação na concepção e acompanhamento de proposta diferenciada no curso de Análise e Desenvolvimento de Sistemas, com trilhas de aprendizagem, protagonismo estudantil, colaboração docente e projetos reais.
-
-[Ver case completo](cases/ads-trilhas-projetos.md)
-
-### 5. TriboGirls
-Atuação na implementação de iniciativa nacional vinculada ao CNPq voltada à aproximação de meninas da Educação Básica com ciência, tecnologia e engenharia, articulando escolas públicas, estudantes, famílias, docentes, pesquisadoras, UniSENAI e Instituto SENAI de Inovação.
-
-[Ver case completo](cases/tribogirls.md)
-
-### 6. Gestão da mudança na Educação Básica e EJA
-Na Rede de Colégios Marco Polo, liderou a reorganização do modelo pedagógico durante a pandemia, estruturando aulas on-line, formação docente e comunicação com estudantes e famílias. A estratégia contribuiu para retenção de 100% dos estudantes.
-
-[Ver case completo](cases/gestao-mudanca-marco-polo.md)
-
-### 7. Avaliação institucional, indicadores e permanência
-Atuação como membro da CPA e responsável por pesquisas de Avaliação Institucional junto aos estudantes, além do acompanhamento de evasão, aprovação, reprovação, satisfação e aprendizagem e articulação de ações de Monitoria e Mentoria.
-
-[Ver case completo](cases/indicadores-avaliacao-permanencia.md)
-
-### 8. Consultoria educacional e análise regulatória
-Prestação de assessoria educacional para entidades nacionais representativas do setor, com pesquisa, curadoria e análise de atos normativos, políticas públicas e publicações oficiais, transformando informações em relatórios técnicos e recomendações para apoio à tomada de decisão.
-
-[Ver case completo](cases/consultoria-regulacao.md)
+| Experiência | Escopo |
+|---|---|
+| **20+ anos** | Educação, gestão e desenvolvimento de soluções educacionais |
+| **6 cursos superiores** | Coordenação pedagógica em Engenharias e Tecnologias |
+| **600+ estudantes** | Acompanhamento acadêmico e pedagógico |
+| **50+ docentes** | Liderança, orientação e desenvolvimento |
+| **40+ docentes por ciclo** | Formações continuadas recorrentes |
+| **100% de retenção** | Resultado durante reestruturação pedagógica na pandemia |
 
 ---
 
-## Experiência profissional em destaque
+## 🧭 O que eu faço
+
+`Consultoria Educacional` `Design de Soluções Educacionais` `Gestão Acadêmica e Pedagógica`  
+`Gestão de Projetos Educacionais` `Desenvolvimento Curricular` `Formação Docente`  
+`Design Instrucional` `Educação Digital e EaD` `IA aplicada à Educação`  
+`Avaliação por Competências` `Indicadores Acadêmicos` `Gestão de Stakeholders`  
+`Pesquisa Aplicada` `Curadoria de Tendências` `Políticas e Regulação Educacional`
+
+---
+
+# 🗂️ Cases em destaque
+
+## 🤖 01 | IA aplicada ao PBL e Projetos Integradores
+
+**Desafio:** integrar IA às metodologias ativas sem substituir investigação, reflexão e autoria do estudante.  
+**Atuação:** orientação a docentes de Engenharia para uso da IA como *scaffolding* em PBL e Projetos Integradores.  
+**Aplicações:** investigação, estruturação de ideias, curadoria de fontes, organização de etapas, síntese e feedback processual.  
+**Tecnologias:** ChatGPT • Gemini • Perplexity • NotebookLM • Diffit • FigJam • Miro
+
+➡️ **[Explorar o case](cases/ia-pbl-projetos-integradores.md)**
+
+---
+
+## 💻 02 | LMS, AVAs e experiências digitais de aprendizagem
+
+**Desafio:** selecionar e adaptar plataformas às metodologias e aos objetivos educacionais.  
+**Atuação:** organização de experiências de aprendizagem, cursos, salas virtuais, atividades, gamificação e acompanhamento.  
+**Plataformas:** Moodle • Canvas LMS • Google Classroom • Tovuti LMS • Google Workspace
+
+➡️ **[Explorar o case](cases/lms-educacao-digital.md)**
+
+---
+
+## 👩‍🏫 03 | Formação e desenvolvimento docente
+
+Concepção e implementação de formações continuadas para docentes do Ensino Superior, articulando planejamento, MSEP, avaliação por competências, metodologias ativas, PBL, AVA, Educação Digital e tecnologias aplicadas à aprendizagem.
+
+**Entregáveis:** trilhas formativas • cadernos digitais • guias docentes • estudos de caso • orientações práticas
+
+➡️ **[Explorar o case](cases/formacao-docente.md)**
+
+---
+
+## 🧩 04 | ADS, trilhas de aprendizagem e projetos reais
+
+Participação na concepção e acompanhamento de proposta diferenciada para o curso de **Análise e Desenvolvimento de Sistemas**, articulando trilhas de aprendizagem, protagonismo estudantil, colaboração docente e projetos reais.
+
+➡️ **[Explorar o case](cases/ads-trilhas-projetos.md)**
+
+---
+
+## 🔬 05 | TriboGirls, meninas na ciência e tecnologia
+
+Participação na implementação de iniciativa vinculada ao **CNPq**, aproximando meninas da Educação Básica da ciência, tecnologia e engenharia e articulando escolas públicas, estudantes, famílias, docentes, pesquisadoras, UniSENAI e Instituto SENAI de Inovação.
+
+➡️ **[Explorar o case](cases/tribogirls.md)**
+
+---
+
+## 🔄 06 | Gestão da mudança em contexto de crise
+
+Na Rede de Colégios Marco Polo, liderei a reorganização do modelo pedagógico durante a pandemia, estruturando aulas on-line, formação docente e comunicação com estudantes e famílias.
+
+### Resultado: **100% de retenção dos estudantes no período.**
+
+➡️ **[Explorar o case](cases/gestao-mudanca-marco-polo.md)**
+
+---
+
+## 📊 07 | Avaliação institucional, indicadores e permanência
+
+Atuação como membro da **CPA** e responsável por pesquisas de Avaliação Institucional, acompanhando indicadores de evasão, aprovação, reprovação, satisfação e aprendizagem e articulando estratégias de Monitoria, Mentoria e permanência estudantil.
+
+➡️ **[Explorar o case](cases/indicadores-avaliacao-permanencia.md)**
+
+---
+
+## 🏛️ 08 | Consultoria educacional e análise regulatória
+
+Assessoria para entidades nacionais representativas do setor educacional, com pesquisa, curadoria e análise de atos normativos, políticas públicas e publicações oficiais, convertendo informação complexa em relatórios técnicos e subsídios para tomada de decisão.
+
+➡️ **[Explorar o case](cases/consultoria-regulacao.md)**
+
+---
+
+# 💼 Experiência em destaque
 
 ### Centro Universitário UniSENAI / FIESC
-**Coordenação Pedagógica - Ensino Superior | 2024 - 2026**
+**Coordenação Pedagógica, Ensino Superior | 2024 - 2026**
 
-Atuação pedagógica em seis cursos superiores de Engenharia e Tecnologia, com mais de 600 estudantes e mais de 50 docentes. Desenvolvimento curricular, formação docente, avaliação por competências, acompanhamento de indicadores, Educação Digital, EaD, projetos educacionais, permanência estudantil e processos regulatórios.
+Atuação em seis cursos superiores de Engenharia e Tecnologia, alcançando mais de 600 estudantes e mais de 50 docentes. Desenvolvimento curricular, formação docente, avaliação por competências, indicadores, Educação Digital, EaD, permanência estudantil e processos regulatórios.
 
 ### Assessoria Educacional Estratégica
 **Consultoria e Monitoramento Educacional | nov. 2023 - atual**
 
-Assessoria educacional para entidades nacionais representativas do setor, incluindo ANUP e CONFENEN, com pesquisa, curadoria, análise regulatória, produção de relatórios técnicos e adaptação das entregas às necessidades institucionais.
+Assessoria para entidades nacionais representativas do setor, incluindo **ANUP e CONFENEN**, com pesquisa, curadoria, análise regulatória, relatórios técnicos e adaptação das entregas às necessidades institucionais.
 
 ### Rede de Colégios Marco Polo
-**Coordenação Pedagógica - EJA e Educação Básica | 2018 - 2022**
+**Coordenação Pedagógica, EJA e Educação Básica | 2018 - 2022**
 
-Liderança do setor pedagógico, desenvolvimento curricular, acompanhamento docente, matrícula e rematrícula, gestão de recursos e reestruturação do modelo pedagógico durante a pandemia.
+Liderança pedagógica, desenvolvimento curricular, acompanhamento docente, matrícula e rematrícula, gestão de recursos e reestruturação do modelo pedagógico durante a pandemia.
 
-### Instituto Federal do Acre - IFAC
-**Chefe de Gabinete Institucional / Assessora Executiva | 2011 - 2014**
+### Instituto Federal do Acre, IFAC
+**Chefia de Gabinete Institucional / Assessoria Executiva | 2011 - 2014**
 
-Atuação na implantação institucional, assessoramento à alta gestão e articulação entre Reitoria, Pró-Reitorias, campi, MEC, SETEC, CONIF e demais stakeholders institucionais.
-
----
-
-## Produção científica e participação acadêmica
-
-- **PADILHA, Fabiana R. R. et al.** *A Systematic Review of Virtual Reality Applications in Engineering Education: Methodologies, Assessments, and Outcomes.* IEEE SVR 2025. DOI: 10.1109/SVR67689.2025.00055.
-- Trabalho sobre **A Coordenação Pedagógica como Agente de Transformação Docente no Ensino Superior UniSENAI**, relacionado à formação e desenvolvimento docente.
-- SIMPEX Pedagógico - produção de artigo, pôster e apresentação oral sobre inovação, tecnologias e gamificação na avaliação por competências.
-- Participação em Mostras Científicas e acompanhamento de trabalhos produzidos em colaboração com docentes e equipes pedagógicas.
+Implantação institucional, assessoramento à alta gestão e articulação entre Reitoria, Pró-Reitorias, campi, MEC, SETEC, CONIF e demais stakeholders institucionais.
 
 ---
 
-## Formação acadêmica
+# 🛠️ Ecossistema de tecnologias educacionais
 
-- **Mestrado em Tecnologias Educacionais em Rede** - Universidade Federal de Santa Maria (UFSM)
-- **Especialização em Gestão Educacional** - UFSM
-- **Especialização em Tecnologias Digitais Aplicadas à Educação** - IFSertãoPE
-- **Especialização em Atendimento Educacional Especializado** - FURG
-- **Especialização em Design Instrucional** - FACSM, em fase de conclusão
-- **Licenciatura em Letras - Português e Literaturas** - UFSM
-- **Licenciatura em Letras - Espanhol** - UFPel
-- **Licenciatura em Pedagogia** - IPEMIG, em andamento
+### Inteligência Artificial aplicada à Educação
+![ChatGPT](https://img.shields.io/badge/ChatGPT-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-20808D?style=flat-square&logo=perplexity&logoColor=white)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-1F6F8B?style=flat-square)
+![Diffit](https://img.shields.io/badge/Diffit-EE6C4D?style=flat-square)
 
----
+### LMS e ambientes de aprendizagem
+![Moodle](https://img.shields.io/badge/Moodle-F98012?style=flat-square&logo=moodle&logoColor=white)
+![Canvas LMS](https://img.shields.io/badge/Canvas_LMS-E13F29?style=flat-square)
+![Google Classroom](https://img.shields.io/badge/Google_Classroom-0F9D58?style=flat-square&logo=googleclassroom&logoColor=white)
+![Tovuti LMS](https://img.shields.io/badge/Tovuti_LMS-1F6F8B?style=flat-square)
 
-## Tecnologias e plataformas
-
-**IA aplicada à educação:** ChatGPT, Gemini, Perplexity, NotebookLM, Diffit  
-**LMS/AVA:** Moodle, Canvas LMS, Google Classroom, Tovuti LMS  
-**Colaboração e produção:** Google Workspace, Microsoft 365, Microsoft Teams, Canva, FigJam, Miro
-
----
-
-## Idiomas
-
-- Espanhol - avançado
-- Inglês - intermediário
-- Francês - básico
-- Italiano - básico
+### Colaboração, autoria e gestão
+![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=flat-square&logo=google&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat-square&logo=microsoft&logoColor=white)
+![Teams](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=flat-square&logo=microsoftteams&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Miro](https://img.shields.io/badge/Miro-FFD02F?style=flat-square&logo=miro&logoColor=black)
 
 ---
 
-## Contato profissional
+# 📚 Formação
 
-- **LinkedIn:** https://www.linkedin.com/in/fabiana-padilha182090
-- **Lattes:** http://lattes.cnpq.br/6795341565350913
-- **GitHub:** https://github.com/fabiana-padilha
+🎓 **Mestrado em Tecnologias Educacionais em Rede** • UFSM  
+🎓 **Especialização em Gestão Educacional** • UFSM  
+🎓 **Especialização em Tecnologias Digitais Aplicadas à Educação** • IFSertãoPE  
+🎓 **Especialização em Atendimento Educacional Especializado** • FURG  
+🎓 **Especialização em Design Instrucional** • FACSM, em conclusão  
+📖 **Letras, Português e Literaturas** • UFSM  
+📖 **Letras, Espanhol** • UFPel  
+📖 **Pedagogia** • IPEMIG, em andamento
 
 ---
 
-### Posicionamento profissional
+# 🔎 Pesquisa e produção científica
 
-Atuação na interseção entre **educação, tecnologia, consultoria, desenvolvimento de pessoas e soluções educacionais**, com foco em transformar necessidades institucionais em estratégias, experiências de aprendizagem e projetos aplicáveis à realidade das organizações.
+**PADILHA, Fabiana R. R. et al.** *A Systematic Review of Virtual Reality Applications in Engineering Education: Methodologies, Assessments, and Outcomes.* IEEE SVR 2025. DOI: **10.1109/SVR67689.2025.00055**.
+
+Outras produções incluem trabalho sobre **Coordenação Pedagógica como Agente de Transformação Docente no Ensino Superior UniSENAI**, produção para o **SIMPEX Pedagógico** sobre tecnologias e gamificação na avaliação por competências e participação em Mostras Científicas.
+
+---
+
+# 🌎 Idiomas
+
+🇪🇸 Espanhol, avançado • 🇬🇧 Inglês, intermediário • 🇫🇷 Francês, básico • 🇮🇹 Italiano, básico
+
+---
+
+<div align="center">
+
+## Vamos conversar sobre Educação + Tecnologia?
+
+**Consultoria Educacional • Soluções Educacionais • Educação Digital • IA aplicada à Educação**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiana-padilha182090)
+[![Lattes](https://img.shields.io/badge/Currículo-Lattes-1F6F8B?style=for-the-badge)](http://lattes.cnpq.br/6795341565350913)
+
+</div>
