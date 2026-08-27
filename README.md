@@ -33,11 +33,13 @@ Sou **Mestre em Tecnologias Educacionais em Rede pela UFSM** e Especialista em G
 | Experiência | Escopo |
 |---|---|
 | **20+ anos** | Educação, gestão e desenvolvimento de soluções educacionais |
-| **6 cursos superiores** | Coordenação pedagógica em Engenharias e Tecnologias |
-| **600+ estudantes** | Acompanhamento acadêmico e pedagógico |
-| **50+ docentes** | Liderança, orientação e desenvolvimento |
-| **40+ docentes por ciclo** | Formações continuadas recorrentes |
-| **100% de retenção** | Resultado durante reestruturação pedagógica na pandemia |
+| **Múltiplos níveis e modalidades** | Educação Básica, EJA, Educação Profissional e Ensino Superior |
+| **Diversas áreas de formação** | Engenharias, Tecnologias, Direito, Educação e outras áreas |
+| **Currículos e projetos de cursos** | Construção, elaboração, revisão e atualização curricular |
+| **50+ docentes em uma única operação** | Liderança, orientação e desenvolvimento profissional |
+| **Centenas de estudantes** | Diferentes níveis, modalidades e contextos educacionais |
+| **Educação digital e tecnologias** | AVAs/LMS, TICs, metodologias ativas e IA aplicada à educação |
+| **Consultoria educacional** | Pesquisa aplicada, análise e soluções para clientes institucionais |
 
 ---
 
