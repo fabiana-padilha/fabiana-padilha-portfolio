@@ -2,11 +2,18 @@
 
 ## Consultoria Educacional | Soluções Educacionais Digitais | Gestão de Projetos | Educação e Tecnologia
 
-Profissional da educação com mais de 20 anos de experiência em instituições públicas e privadas de Educação Básica, Educação Profissional e Ensino Superior, com atuação em gestão acadêmica e pedagógica, consultoria educacional, desenvolvimento curricular, formação de equipes, tecnologias educacionais, avaliação institucional e projetos educacionais.
+Profissional da educação com mais de 20 anos de experiência em instituições públicas e privadas de Educação Básica, Educação Profissional e Ensino Superior. Atua na interseção entre gestão acadêmica e pedagógica, consultoria educacional, desenvolvimento curricular, formação de equipes, tecnologias educacionais, avaliação institucional e projetos educacionais.
 
-Mestre em Tecnologias Educacionais em Rede pela UFSM e Especialista em Gestão Educacional, reúne experiência na tradução de necessidades institucionais em soluções educacionais, estratégias de aprendizagem, processos de desenvolvimento docente e ações de melhoria da qualidade acadêmica.
+Mestre em Tecnologias Educacionais em Rede pela UFSM e Especialista em Gestão Educacional, traduz necessidades institucionais em soluções educacionais, estratégias de aprendizagem, processos de desenvolvimento docente e ações de melhoria da qualidade acadêmica.
 
-Ao longo da trajetória, atuou na articulação entre gestores, docentes, estudantes, equipes multidisciplinares e instituições do setor educacional, combinando educação, tecnologia, pesquisa aplicada, análise de indicadores e gestão de projetos.
+### Destaques
+- Mais de 20 anos de experiência em educação.
+- Coordenação pedagógica de 6 cursos superiores, com atuação junto a mais de 600 estudantes e mais de 50 docentes.
+- Formação continuada de docentes, com turmas recorrentes de mais de 40 professores.
+- Experiência em Educação Digital, EaD, PBL, Projetos Integradores, Design Instrucional, LMS/AVA e IA aplicada à educação.
+- Consultoria educacional para entidades nacionais do setor.
+- Atuação com indicadores acadêmicos, avaliação institucional, permanência estudantil e processos regulatórios.
+- Produção científica internacional na área de tecnologias educacionais.
 
 ---
 
@@ -21,6 +28,7 @@ Ao longo da trajetória, atuou na articulação entre gestores, docentes, estuda
 - Design Instrucional
 - Educação Digital e EaD
 - Tecnologias Educacionais
+- IA aplicada à Educação
 - Avaliação por Competências
 - Avaliação Institucional e Indicadores Acadêmicos
 - Permanência e Experiência do Estudante
@@ -30,62 +38,81 @@ Ao longo da trajetória, atuou na articulação entre gestores, docentes, estuda
 
 ---
 
-## Experiência em destaque
+## Cases do portfólio
+
+### 1. IA aplicada ao PBL e Projetos Integradores
+Orientação a docentes dos cursos de Engenharia para uso pedagógico de IA generativa como apoio à investigação, estruturação de ideias, curadoria de fontes, organização de etapas e feedback processual.
+
+Ferramentas trabalhadas em diferentes contextos: ChatGPT, Gemini, Perplexity, NotebookLM, Diffit, FigJam e Miro com recursos de IA.
+
+[Ver case completo](cases/ia-pbl-projetos-integradores.md)
+
+### 2. Plataformas de aprendizagem e desenho de experiências digitais
+Atuação com Moodle, Canvas LMS, Google Classroom e Tovuti LMS, além da integração com Google Workspace, na organização de experiências de aprendizagem, cursos, salas virtuais, gamificação, recursos digitais e relatórios de acompanhamento.
+
+[Ver case completo](cases/lms-educacao-digital.md)
+
+### 3. Formação e desenvolvimento docente
+Concepção e implementação de ações de formação continuada, trilhas formativas, cadernos digitais, guias, estudos de caso e orientações práticas sobre planejamento, metodologias ativas, AVA e avaliação.
+
+[Ver case completo](cases/formacao-docente.md)
+
+### 4. ADS - trilhas de aprendizagem e projetos reais
+Participação na concepção e acompanhamento de proposta diferenciada no curso de Análise e Desenvolvimento de Sistemas, com trilhas de aprendizagem, protagonismo estudantil, colaboração docente e projetos reais.
+
+[Ver case completo](cases/ads-trilhas-projetos.md)
+
+### 5. TriboGirls
+Atuação na implementação de iniciativa nacional vinculada ao CNPq voltada à aproximação de meninas da Educação Básica com ciência, tecnologia e engenharia, articulando escolas públicas, estudantes, famílias, docentes, pesquisadoras, UniSENAI e Instituto SENAI de Inovação.
+
+[Ver case completo](cases/tribogirls.md)
+
+### 6. Gestão da mudança na Educação Básica e EJA
+Na Rede de Colégios Marco Polo, liderou a reorganização do modelo pedagógico durante a pandemia, estruturando aulas on-line, formação docente e comunicação com estudantes e famílias. A estratégia contribuiu para retenção de 100% dos estudantes.
+
+[Ver case completo](cases/gestao-mudanca-marco-polo.md)
+
+### 7. Avaliação institucional, indicadores e permanência
+Atuação como membro da CPA e responsável por pesquisas de Avaliação Institucional junto aos estudantes, além do acompanhamento de evasão, aprovação, reprovação, satisfação e aprendizagem e articulação de ações de Monitoria e Mentoria.
+
+[Ver case completo](cases/indicadores-avaliacao-permanencia.md)
+
+### 8. Consultoria educacional e análise regulatória
+Prestação de assessoria educacional para entidades nacionais representativas do setor, com pesquisa, curadoria e análise de atos normativos, políticas públicas e publicações oficiais, transformando informações em relatórios técnicos e recomendações para apoio à tomada de decisão.
+
+[Ver case completo](cases/consultoria-regulacao.md)
+
+---
+
+## Experiência profissional em destaque
 
 ### Centro Universitário UniSENAI / FIESC
 **Coordenação Pedagógica - Ensino Superior | 2024 - 2026**
 
-Atuação pedagógica em seis cursos superiores de Engenharia e Tecnologia, alcançando mais de 600 estudantes e mais de 50 docentes.
+Atuação pedagógica em seis cursos superiores de Engenharia e Tecnologia, com mais de 600 estudantes e mais de 50 docentes. Desenvolvimento curricular, formação docente, avaliação por competências, acompanhamento de indicadores, Educação Digital, EaD, projetos educacionais, permanência estudantil e processos regulatórios.
 
-Principais frentes de atuação:
+### Assessoria Educacional Estratégica
+**Consultoria e Monitoramento Educacional | nov. 2023 - atual**
 
-- Liderança, orientação pedagógica e desenvolvimento contínuo de docentes.
-- Planejamento de formações recorrentes, com participação de mais de 40 professores.
-- Elaboração, revisão e atualização de PPCs, unidades curriculares e projetos educacionais.
-- Planejamento e validação de avaliações por competências com base na MSEP e na Taxonomia de Bloom.
-- Acompanhamento de MSEP, SGN e AVA, fortalecendo a coerência entre planejamento, experiências de aprendizagem e registros acadêmicos.
-- Concepção e produção de soluções para desenvolvimento docente, incluindo trilhas formativas, cadernos digitais, orientações práticas e estudos de caso.
-- Participação na concepção e acompanhamento de proposta diferenciada em Análise e Desenvolvimento de Sistemas, com trilhas de aprendizagem, protagonismo estudantil, colaboração docente e projetos reais.
-- Atuação em Mentoria e permanência estudantil, apoiando estudantes diante de faltas, reprovações, trancamentos, desistências e outras barreiras acadêmicas.
-- Participação em processos regulatórios, avaliação institucional, indicadores acadêmicos e ações de melhoria da qualidade.
-- Participação em iniciativas de pesquisa, Mostras Científicas e produção acadêmica.
+Assessoria educacional para entidades nacionais representativas do setor, incluindo ANUP e CONFENEN, com pesquisa, curadoria, análise regulatória, produção de relatórios técnicos e adaptação das entregas às necessidades institucionais.
 
----
+### Rede de Colégios Marco Polo
+**Coordenação Pedagógica - EJA e Educação Básica | 2018 - 2022**
 
-## Cases selecionados
+Liderança do setor pedagógico, desenvolvimento curricular, acompanhamento docente, matrícula e rematrícula, gestão de recursos e reestruturação do modelo pedagógico durante a pandemia.
 
-### Formação e desenvolvimento docente
-Participação na concepção e implementação de uma trilha de formação docente orientada ao desenvolvimento de capacidades, planejamento, metodologias ativas, avaliação diagnóstica, formativa e somativa, uso pedagógico do AVA e integração entre ensino, pesquisa e extensão.
+### Instituto Federal do Acre - IFAC
+**Chefe de Gabinete Institucional / Assessora Executiva | 2011 - 2014**
 
-### Soluções educacionais para EaD e educação digital
-Produção e organização de materiais de orientação docente para planejamento de UCs, uso de AVA, encontros síncronos, avaliação, gravação de videoaulas e organização de experiências de aprendizagem em ambientes digitais.
-
-### ADS - trilhas de aprendizagem e projetos reais
-Participação na concepção e acompanhamento de proposta educacional diferenciada no curso de Análise e Desenvolvimento de Sistemas, integrando trilhas de aprendizagem, protagonismo estudantil, atuação colaborativa entre docentes e projetos reais.
-
-### TriboGirls
-Atuação na implementação de iniciativa nacional vinculada ao CNPq voltada à aproximação de meninas da Educação Básica com ciência, tecnologia e engenharia, articulando escolas públicas, estudantes, famílias, docentes, pesquisadoras, UniSENAI e Instituto SENAI de Inovação.
-
-### Gestão da mudança na Educação Básica e EJA
-Na Rede de Colégios Marco Polo, liderou a reorganização do modelo pedagógico durante a pandemia, estruturando aulas on-line, formação docente e comunicação com estudantes e famílias. A estratégia contribuiu para retenção de 100% dos estudantes no período.
-
----
-
-## Consultoria educacional e atuação institucional
-
-Atua em assessoria educacional e monitoramento regulatório para entidades nacionais representativas do setor educacional, com pesquisa, triagem, curadoria e análise de atos normativos, políticas públicas e publicações oficiais, além da elaboração de relatórios técnicos para acompanhamento institucional.
-
-Experiência de interlocução com lideranças executivas e instituições do setor educacional, incluindo atuação relacionada a ANUP e CONFENEN.
-
-Também possui trajetória de articulação institucional com MEC, INEP, SETEC, CONIF e outras instâncias educacionais.
+Atuação na implantação institucional, assessoramento à alta gestão e articulação entre Reitoria, Pró-Reitorias, campi, MEC, SETEC, CONIF e demais stakeholders institucionais.
 
 ---
 
 ## Produção científica e participação acadêmica
 
 - **PADILHA, Fabiana R. R. et al.** *A Systematic Review of Virtual Reality Applications in Engineering Education: Methodologies, Assessments, and Outcomes.* IEEE SVR 2025. DOI: 10.1109/SVR67689.2025.00055.
-- Trabalho sobre **A Coordenação Pedagógica como Agente de Transformação Docente no Ensino Superior UniSENAI**, relacionado à Trilha de Formação Docente.
-- SIMPEX Pedagógico - UniSENAI: produção de artigo, pôster e apresentação oral sobre inovação, tecnologias e gamificação na avaliação por competências.
+- Trabalho sobre **A Coordenação Pedagógica como Agente de Transformação Docente no Ensino Superior UniSENAI**, relacionado à formação e desenvolvimento docente.
+- SIMPEX Pedagógico - produção de artigo, pôster e apresentação oral sobre inovação, tecnologias e gamificação na avaliação por competências.
 - Participação em Mostras Científicas e acompanhamento de trabalhos produzidos em colaboração com docentes e equipes pedagógicas.
 
 ---
@@ -103,9 +130,11 @@ Também possui trajetória de articulação institucional com MEC, INEP, SETEC, 
 
 ---
 
-## Tecnologias e ferramentas
+## Tecnologias e plataformas
 
-Microsoft 365 • Google Workspace • Moodle • Microsoft Teams • Canva • Ambientes Virtuais de Aprendizagem • Inteligência Artificial aplicada à Educação
+**IA aplicada à educação:** ChatGPT, Gemini, Perplexity, NotebookLM, Diffit  
+**LMS/AVA:** Moodle, Canvas LMS, Google Classroom, Tovuti LMS  
+**Colaboração e produção:** Google Workspace, Microsoft 365, Microsoft Teams, Canva, FigJam, Miro
 
 ---
 
